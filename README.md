@@ -1,2 +1,2 @@
 # URL-Validator
-This application helps you identify broken links in your websites.
+This application helps you identify sub-sites that are currently down.
